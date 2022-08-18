@@ -13,7 +13,7 @@ Check the installation of Pygame and Numpy. To run the game, open Command Prompt
  
  python ataxx.py
 
-Choose the game mode you like, the AI ​​game mode (in the case of the Human vs AI game mode) and where you want to play!
+Choose the game mode you like, the AI algorithm (in the case of the Human vs AI game mode) and where you want to play!
 Then, a window with the game board will open, and the blue pieces will start to play.
 
 Good game!
